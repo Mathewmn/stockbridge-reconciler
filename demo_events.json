@@ -1,0 +1,7 @@
+[
+  {"event_id": "delivery-001", "sku": "TENT-2P", "delta": 12},
+  {"event_id": "delivery-002", "sku": "SLEEPING-BAG", "delta": 8},
+  {"event_id": "order-101", "sku": "TENT-2P", "delta": -3},
+  {"event_id": "order-102", "sku": "SLEEPING-BAG", "delta": -2},
+  {"event_id": "return-101", "sku": "TENT-2P", "delta": 1}
+]
